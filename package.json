@@ -1,0 +1,12 @@
+{
+  "name": "typescript-desafio-dio-take-blip",
+  "version": "1.0.0",
+  "description": "Resolucoes dos desafios Dio-Take-Blip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "tsc --watch"
+  },
+  "author": "Leonardo Sales",
+  "license": "ISC"
+}
