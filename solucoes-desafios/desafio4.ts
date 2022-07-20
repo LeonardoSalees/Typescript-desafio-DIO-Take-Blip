@@ -21,7 +21,7 @@ loginButton?.addEventListener('click', async () => {
   await criarSessao();
 })
 
-searchButton?.addEventListener('click', async () => {
+searchButton.addEventListener('click', async (e) => {
   let lista = document.getElementById("lista");
   if (lista) {
     lista.outerHTML = "";
